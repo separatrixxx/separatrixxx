@@ -33,7 +33,7 @@
 
 ### Block-Chain Development
 
-![Near](https://img.shields.io/badge/Near-3C3C3D?style=for-the-badge&logo=https://cryptologos.cc/logos/near-protocol-near-logo.png&logoColor=white)
+![Near](https://img.shields.io/badge/Near-3C3C3D?style=for-the-badge&logo="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### Backend as a Service (BaaS)
