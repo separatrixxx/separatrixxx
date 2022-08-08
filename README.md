@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&color=000000&lines=Hi+there%2C+My+name+is+Separatrix👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&color=000000&lines=Hi+there%2C+My+name+is+Separatrix+👋)](https://git.io/typing-svg)
 
 **<img src="https://aniyuki.com/wp-content/uploads/2021/05/aniyuki-anime-dance-gif-14.gif" width="64px" height="64px">**
 
