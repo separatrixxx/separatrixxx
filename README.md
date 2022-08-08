@@ -59,7 +59,7 @@
 ![Autodesk](https://img.shields.io/badge/3ds%20Max-008484?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Workspace Setup
+## 🥰 Workspace Setup
 
 ![Processor](https://img.shields.io/badge/AMD-Ryzen_5_3600-ff6200?style=for-the-badge&logo=amd&logoColor=white)
 ![GraphicCard](https://img.shields.io/badge/AMD-RX_580-ff0000?style=for-the-badge&logo=amd&logoColor=white)
@@ -70,5 +70,8 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biggvladik&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biggvladik&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biggvladik&theme=solarized_dark)
+## 🤮 Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Separatrixxx&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Separatrixxx&theme=solarized_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Separatrixxx&theme=solarized_dark)
