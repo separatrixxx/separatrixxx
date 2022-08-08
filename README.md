@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+My+name+Separatrix!)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%000000FF&lines=Hi+there,+My+name+Separatrix!)](https://git.io/typing-svg)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/biggvladik/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/biggvladik)
