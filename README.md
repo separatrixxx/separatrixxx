@@ -74,4 +74,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Separatrixxx&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Separatrixxx&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Separatrixxx&theme=githubb)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Separatrixxx&theme=github)
