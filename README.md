@@ -72,6 +72,6 @@
 
 ## 🤮 Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Separatrixxx&theme=ark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Separatrixxx&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Separatrixxx&theme=dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Separatrixxx&theme=dark)
