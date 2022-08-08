@@ -31,6 +31,11 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
+### Block-Chain Development
+
+![Near](https://img.shields.io/badge/Near-3C3C3D?style=for-the-badge&logo=near&logoColor=white)
+![Web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
 ### Backend as a Service (BaaS)
 
 ![FireBase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
