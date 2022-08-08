@@ -72,8 +72,8 @@
 
 ## 🤮 Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Separatrixxx&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Separatrixxx&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Separatrixxx&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Separatrixxx&theme=default) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Separatrixxx&theme=default&utcOffset=3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Separatrixxx&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Separatrixxx&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Separatrixxx&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Separatrixxx&theme=github) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Separatrixxx&theme=github&utcOffset=3)
