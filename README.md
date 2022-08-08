@@ -3,7 +3,7 @@
 **<img src="https://aniyuki.com/wp-content/uploads/2021/05/aniyuki-anime-dance-gif-14.gif" width="64px" height="64px">**
 
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/separatrix)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/separatrixxx)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/separatrixxx)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/separatrix_x/)
 
 ## 🤧 Education
