@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&color=000000&lines=Hi+there%2C+I+am+Separatrix+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&color=000000&lines=Hi+there%2C+I+am+separatrix+👋)](https://git.io/typing-svg)
 
 **<img src="https://aniyuki.com/wp-content/uploads/2021/05/aniyuki-anime-dance-gif-14.gif" width="64px" height="64px">**
 
@@ -72,6 +72,6 @@
 
 ## 🤮 Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Separatrixxx&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Separatrixxx&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Separatrixxx&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=separatrixxx&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=separatrixxx&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=separatrixxx&theme=github)
