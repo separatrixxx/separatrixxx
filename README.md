@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&color=000000&lines=Hi+there%2C+My+name+is+Separatrix!)](https://git.io/typing-svg)
 
-**<img src="https://aniyuki.com/wp-content/uploads/2021/05/aniyuki-anime-dance-gif-14.gif" width="72px" height="72px">**
+**<img src="https://aniyuki.com/wp-content/uploads/2021/05/aniyuki-anime-dance-gif-14.gif" width="64px" height="64px">**
 
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/separatrix)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/separatrixxx)
@@ -57,7 +57,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/3ds%20Max-008484?style=for-the-badge&logo=autodesk&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Workspace Setup
 
