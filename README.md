@@ -33,7 +33,7 @@
 
 ### Block-Chain Development
 
-![Near](https://img.shields.io/badge/Near-3C3C3D?style=for-the-badge&logo="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"&logoColor=white)
+![Near](https://img.shields.io/badge/Near-3C3C3D?style=for-the-badge&logo=near&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### Backend as a Service (BaaS)
@@ -47,6 +47,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![CorelDraw](https://img.shields.io/badge/corel-000000?style=for-the-badge&logo=corel&logoColor=white)
 
 ## Workspace Setup
 
