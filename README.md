@@ -46,7 +46,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Autodesk](https://img.shields.io/badge/Autodesk-008484?style=for-the-badge&logo=autodesk&logoColor=white)
+![Autodesk](https://img.shields.io/badge/3ds Max-008484?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Workspace Setup
