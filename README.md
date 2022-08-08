@@ -62,7 +62,7 @@
 ## Workspace Setup
 
 ![Processor](https://img.shields.io/badge/AMD-Ryzen_5_3600-ff6200?style=for-the-badge&logo=amd&logoColor=white)
-![GraphicCard](https://img.shields.io/badge/AMD-RX580-ff0000?style=for-the-badge&logo=amd&logoColor=white)
+![GraphicCard](https://img.shields.io/badge/AMD-RX_580-ff0000?style=for-the-badge&logo=amd&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=7cfa5c)
