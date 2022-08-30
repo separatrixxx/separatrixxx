@@ -83,5 +83,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=separatrixxx&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=separatrixxx&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=separatrixxx&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=separatrixxx&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=separatrixxx&theme=github&utcOffset=3)
