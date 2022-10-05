@@ -28,7 +28,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![SWI-Prolog](https://img.shields.io/badge/swi-%23f7f7f7-prolog-%23f7f7f7.svg?style=for-the-badge&logo=latex&logoColor=white)
+![SWI-Prolog](https://img.shields.io/badge/swi-%23f7f7f7prolog-%23f7f7f7.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 #### In progress
 
