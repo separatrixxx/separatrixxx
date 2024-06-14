@@ -50,7 +50,8 @@
 
 ### Back-End Development
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Strapi](https://img.shields.io/badge/Strapi-005571?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/Strapi-271fe0?style=for-the-badge&logo=strapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### Block-Chain Development
