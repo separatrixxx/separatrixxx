@@ -77,11 +77,11 @@
 ![Processor](https://img.shields.io/badge/AMD-Ryzen_5_3600-ff6200?style=for-the-badge&logo=amd&logoColor=white)
 ![GraphicCard](https://img.shields.io/badge/AMD-RX_580-ff0000?style=for-the-badge&logo=amd&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=7cfa5c)
 ![CLion](https://img.shields.io/badge/CLion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=34eb9f)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🤮 Stats
 
