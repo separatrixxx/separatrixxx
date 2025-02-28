@@ -51,6 +51,8 @@
 ### Back-End Development
 
 ![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+
+![Nest.js](https://img.shields.io/badge/Nest.js-ea2845?style=for-the-badge&logo=nest.js&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-271fe0?style=for-the-badge&logo=strapi)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
