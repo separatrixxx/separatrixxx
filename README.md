@@ -44,7 +44,7 @@
 ![Zustand](https://img.shields.io/badge/Zustand-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![SWR](https://img.shields.io/badge/SWR-334155?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-0AE348?style=for-the-badge&logo=greensock&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock&logoColor=0AE348)
 ![Tailwind-CSS](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
