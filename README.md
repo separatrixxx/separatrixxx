@@ -41,6 +41,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-20232A?style=for-the-badge&logo=react&logoColor=white)
+![SWR](https://img.shields.io/badge/SWR-334155?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Tailwind-CSS](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,9 +52,7 @@
 
 ### Back-End Development
 
-![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
-
-![Nest.js](https://img.shields.io/badge/Nest.js-ea2845?style=for-the-badge&logo=nest.js&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-271fe0?style=for-the-badge&logo=strapi)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
