@@ -56,7 +56,7 @@
 
 #### In progress
 
-![immer](https://img.shields.io/badge/immer-00E7C3?style=for-the-badge&logo=immer&logoColor=white)
+![Immer](https://img.shields.io/badge/Immer-00E7C3?style=for-the-badge&logo=Immer&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E535AB?style=for-the-badge&logo=GraphQL&logoColor=white)
 
