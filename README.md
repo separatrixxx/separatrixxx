@@ -54,6 +54,12 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+#### In progress
+
+![immer](https://img.shields.io/badge/immer-00E7C3?style=for-the-badge&logo=immer&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E535AB?style=for-the-badge&logo=GraphQL&logoColor=white)
+
 ### Back-End Development
 
 ![Nest.js](https://img.shields.io/badge/Nest.js-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
