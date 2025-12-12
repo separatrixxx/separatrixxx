@@ -50,6 +50,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=Webpack)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -57,7 +58,6 @@
 #### In progress
 
 ![Immer](https://img.shields.io/badge/Immer-00E7C3?style=for-the-badge&logo=Immer&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E535AB?style=for-the-badge&logo=GraphQL&logoColor=white)
 
 ### Back-End Development
